@@ -12,7 +12,7 @@ const routes = {
 	},
 	productos: {
 		template: "/templates/productos.html",
-		title: "Store | " + pageTitle,
+		title: "Tienda | " + pageTitle,
 		description: "This is the about page",
 	},
 	contacto: {
